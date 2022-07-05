@@ -1,0 +1,5 @@
+Resources:
+
+Teste de Mesa Howard
+https://code-tracing2.vercel.app/loop1
+
